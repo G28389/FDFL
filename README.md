@@ -1,7 +1,3 @@
-﻿# FedDisco: Federated Learning with Discrepancy-Aware Collaboration, ICML2023
-
-**Note**: This repo is still in progress.
-
 ## Introduction
 Here we provide our codes of FedAvg on NIID-1 and NIID-2 settings of CIFAR-10. 
 
